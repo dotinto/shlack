@@ -1,7 +1,7 @@
 {
-	"prm": false,
-	"help": false,
-	"mod": false,
-	"cur": false,
-	"tech": false
+	"prm": true,
+	"help": true,
+	"mod": true,
+	"cur": true,
+	"tech": true
 }
